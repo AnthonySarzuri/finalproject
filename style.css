@@ -1,0 +1,70 @@
+body{
+    font-family: 'Advent Pro', sans-serif;
+}
+
+#logos{
+    font-size: 20px;
+}
+
+#lbls{
+    font-size: 15px;
+}
+#entrarSistema{
+    font-size: 15px;
+    background-color: #5BC0BE;
+    border-color: #5BC0BE;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+}
+#entrarSistema:hover{
+    font-size: 15px;
+    color: #5BC0BE;
+    background-color: #fff;
+    border-color: #5BC0BE;
+    border-radius: 20px;
+}
+#registro{
+    font-size: 15px;
+    background-color: #5BC0BE;
+    border-color: #5BC0BE;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+}
+#registro:hover{
+    font-size: 15px;
+    color: #5BC0BE;
+    background-color: #fff;
+    border-color: #5BC0BE;
+    border-radius: 20px;
+}
+#button{
+    font-size: 15px;
+    color: #fff;
+    background-color: #1C2541;
+    border-color: #1C2541;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+}
+
+#button:hover{
+    font-size: 15px;
+    color: #1C2541;
+    background-color: #fff;
+    border-color: #1C2541;
+    border-radius: 20px;
+}
+
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #1C2541;
+    border-color: #1C2541;
+}
+#show_password{
+    background-color: #1C2541;
+    border-color: #1C2541;
+    transition-duration: 0.4s;  
+}
+#show_password:hover{
+    background-color: #3A506B;
+    border-color: #3A506B;
+}

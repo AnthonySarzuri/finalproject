@@ -1,0 +1,48 @@
+
+html,body {
+  
+    font-family: 'Advent Pro', sans-serif;
+    height:100%;
+    padding-top:70px;
+    font-size: 22px;
+   
+    
+}
+
+
+section {
+  height:calc(90% - 50px);
+}
+
+.affix {
+  padding:0px;
+  -webkit-transition:padding 0.2s linear;
+  -moz-transition:padding 0.2s linear;  
+  -o-transition:padding 0.2s linear;         
+  transition:padding 0.2s linear;  
+
+}
+
+.affix-top {
+  padding-top:15px;
+  padding-bottom:15px;
+  -webkit-transition:padding 0.5s linear;
+  -moz-transition:padding 0.5s linear;  
+  -o-transition:padding 0.5s linear;         
+  transition:padding 0.5s linear;  
+}
+
+li{
+  font-size: 22px;
+}
+ul.dropdown-menu{
+  transition-duration: 0.3s;
+}
+
+#logos{
+  font-size: 30px;
+  text-align: left;
+}
+#nav{
+  background-color: #1C2541;
+}
